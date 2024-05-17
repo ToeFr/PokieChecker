@@ -4,7 +4,10 @@ Sure, here's the entire content for the `README.md` file wrapped in a code block
 
 ## Introduction
 
-File Monitor CLI is a command-line tool designed to monitor files and directories for changes. It uses hashing to detect modifications and provides alerts for any changes. This tool is useful for maintaining the integrity of important files and ensuring that unauthorized changes are detected promptly.
+Pokie Checker is a command-line tool designed to monitor files and directories for changes. It uses hashing to detect modifications and provides alerts for any changes. This tool is useful for maintaining the integrity of important files and ensuring that unauthorized changes are detected promptly.
+
+This is just a small project as I wanted to test argparse as well as delve into some hashing. Feedback is welcome.
+Unlikely to get any updates as real world use is minimal.
 
 ## Features
 
@@ -167,29 +170,11 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact [paton.cj@icloud.com](paton.cj@icloud.com).
 
 ---
 
 *Happy Monitoring!*
-
-
-### Explanation:
-
-1. **Introduction**: Brief description of what the tool does.
-2. **Features**: Key features of the tool.
-3. **Installation**: Prerequisites and installation steps.
-4. **Usage**: Detailed usage instructions with command-line arguments and examples.
-5. **Code Snippets**: Example code snippets for key functions.
-6. **Logging**: Information about the logging system.
-7. **Contributing**: Guidelines for contributing to the project.
-8. **License**: License information.
-9. **Contact**: Contact information for inquiries or feedback.
-
-This format should make it easy to copy the entire content and paste it into your `README.md` file without any issues.

@@ -1,6 +1,5 @@
 Sure, here's the entire content for the `README.md` file wrapped in a code block for easy copying:
 
-```markdown
 # File Monitor CLI
 
 ## Introduction
